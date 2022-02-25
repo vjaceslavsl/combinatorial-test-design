@@ -2,6 +2,10 @@
 
 Implementation of Combinatorial Test Design for Hackathon
 
+Requires local MongoDB instance for development
+
+Can be run using docker compose to work without local mongo
+
 ### local development
 
 ```

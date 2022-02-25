@@ -10,7 +10,6 @@ services:
       - '8050:8050'
     environment: 
       MONGO_DB_HOST: mongodb
-      TELEGRAM_CHAT_ID: -595188264
     depends_on:
       - mongodb
 volumes: 
